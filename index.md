@@ -10,11 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Workshop Description
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Deep Learning is a rapidly expanding field with new applications found everyday. In this workshop, we will cover the fundamentals of deep learning for the beginner. We will introduce the math behind training deep learning models: the backpropagation algorithm. Building conceptual understanding of the fundamentals of deep learning will be the focus of the first part of the workshop. We will then cover some of the popular architectures used in deep learning, such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, autoencoders and GANs. There will be a hands-on computing tutorial using Jupyter notebooks to build a basic image classification model via transfer learning.  By the end of the workshop, participants will have a firm understanding of the basic terminology and jargon of deep learning and will be prepared to dive into the plethora of online resources and literature available for each specific application area.
 
-## Header 2
+## Instructor : Sherrie Wang
 
 > This is a blockquote following a header.
 >
