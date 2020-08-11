@@ -6,11 +6,13 @@ layout: default
 
 Deep Learning is a rapidly expanding field with new applications found everyday. In this workshop, we will cover the fundamentals of deep learning for the beginner. We will introduce the math behind training deep learning models: the backpropagation algorithm. Building conceptual understanding of the fundamentals of deep learning will be the focus of the first part of the workshop. We will then cover some of the popular architectures used in deep learning, such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs, autoencoders and GANs. There will be a hands-on computing tutorial using Jupyter notebooks to build a basic image classification model via transfer learning.  By the end of the workshop, participants will have a firm understanding of the basic terminology and jargon of deep learning and will be prepared to dive into the plethora of online resources and literature available for each specific application area.
 
+_Prerequisites:_ Familiarity of basic concepts from linear algebra, such as vectors and matrices, as well as calculus concepts, such as differentiation. Familiarity with the python programming language and an ability to use Jupyter notebooks will be helpful for the hands-on sessions.
+
 ## Instructor : Sherrie Wang
 
-![Sherrie Wang](https://icme.stanford.edu/sites/g/files/sbiybj9731/f/styles/large-square/public/7a7b6131617a9150eb1c3b499fb5bbc3.jpg?itok=E6yFfROi)
+![Sherrie Wang](/assets/img/sherrie.jpg)
 
-Ph.D. Student in Computational and Mathematical Engineering, admitted Autumn 2015
+Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the Center on Food Security and the Environment. She works on developing machine learning methods for remote sensing applications, especially in settings where ground truth labels are scarce. These methods are then applied to problems in sustainable agriculture and development, such as mapping where crops are grown in developing countries.
 
 ### Teaching Assistant : Daniel Kunin
 
