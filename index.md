@@ -8,13 +8,11 @@ Deep Learning is a rapidly expanding field with new applications found everyday.
 
 _Prerequisites:_ Familiarity of basic concepts from linear algebra, such as vectors and matrices, as well as calculus concepts, such as differentiation. Familiarity with the python programming language and an ability to use Jupyter notebooks will be helpful for the hands-on sessions.
 
-## Instructor : Sherrie Wang
+## About the Instructor
 
 ![Sherrie Wang](/assets/img/sherrie.jpg){:style="max-width:30%;"}
 
 Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the Center on Food Security and the Environment. She works on developing machine learning methods for remote sensing applications, especially in settings where ground truth labels are scarce. These methods are then applied to problems in sustainable agriculture and development, such as mapping where crops are grown in developing countries.
-
-### Teaching Assistant : Daniel Kunin
 
 # Workshop Materials
 
