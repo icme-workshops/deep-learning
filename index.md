@@ -20,11 +20,35 @@ Deep Learning is a rapidly expanding field with new applications found everyday.
 
 Ph.D. Student in Computational and Mathematical Engineering, admitted Autumn 2015
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Teaching Assistant : Daniel Kunin
 
-### Header 3
+# Workshop Materials
+
+## Schedule
+
+- Session 1 ( 9:00 AM to 10:30 AM)
+  - Introduction
+  - Current state of the art in deep learning
+  - Math review
+  - Architecture of multi-layer neural networks
+- Session 2 ( 10:45 AM to 12:00 PM)
+  - Loss functions
+  - The backpropgation algorithm
+  - The gradient descent algorithm
+  - Over-fitting and Under-fitting
+- Lunch ( 12:00 PM to 2:00 PM)
+- Session 3 ( 2:00 PM to 3:15 PM)
+  - Convolutional Neural Networks
+  - Recurrent Neural Networks
+  - Other Architectures
+  - Deep Learning Libraries
+  - Hands-on coding Session - Tensorflow
+- Session 4 ( 3:30 PM to 4:45 PM)
+  - Hands-on coding Session - Keras
+  - Hands-on coding Session - Transfer Learning
+  - Failures of deep learning
+
+## Slides
 
 ```js
 // Javascript code with syntax highlighting.
