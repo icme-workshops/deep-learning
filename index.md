@@ -44,8 +44,7 @@ Ph.D. Student in Computational and Mathematical Engineering, admitted Autumn 201
 
 
 
-
-# Examples of Markdown
+<!---
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -156,3 +155,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
