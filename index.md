@@ -16,6 +16,10 @@ Deep Learning is a rapidly expanding field with new applications found everyday.
 
 ## Instructor : Sherrie Wang
 
+![Sherrie Wang](https://icme.stanford.edu/sites/g/files/sbiybj9731/f/styles/large-square/public/7a7b6131617a9150eb1c3b499fb5bbc3.jpg?itok=E6yFfROi)
+
+Ph.D. Student in Computational and Mathematical Engineering, admitted Autumn 2015
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
