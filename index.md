@@ -10,7 +10,7 @@ _Prerequisites:_ Familiarity of basic concepts from linear algebra, such as vect
 
 ## Instructor : Sherrie Wang
 
-![Sherrie Wang](/assets/img/sherrie.jpg)
+![Sherrie Wang](/assets/img/sherrie.jpg){:style="max-width:30%;"}
 
 Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the Center on Food Security and the Environment. She works on developing machine learning methods for remote sensing applications, especially in settings where ground truth labels are scarce. These methods are then applied to problems in sustainable agriculture and development, such as mapping where crops are grown in developing countries.
 
