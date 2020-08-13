@@ -16,7 +16,7 @@ Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the 
 
 # Workshop Materials
 
-## Pre-workshop checklist
+## Pre-workshop Checklist
 
 1. Sign up for [Piazza](https://piazza.com/class/kdpfbm3zrb46kw). We will be using Piazza to answer questions during the workshop.
 2. You should have received a welcome email with the Zoom link and password.  Please email us (kunin@stanford.edu) if you haven't.
