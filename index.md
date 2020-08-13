@@ -42,6 +42,8 @@ Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the 
 
 ## Slides
 
+Slides are currently being updated:
+
 * Morning Sessions - [slides](#)
 * Afternoon Sessions - [slides](#)
 
@@ -71,8 +73,10 @@ Here are some additional resources for various topics:
   - [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/) - Visual tutorial on initialization in deep learning
   - [Parameter optimization in neural networks](https://www.deeplearning.ai/ai-notes/optimization/) - Visual tutorial on optimization in deep learning
 - Stanford Courses
-  - [CS230 Deep Learning](https://cs230.stanford.edu/)
-  - [CS231N Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [CS 230 Deep Learning](https://cs230.stanford.edu/)
+  - [CS 231N Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+  - [CS 224N Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+  - [CS 236 Deep Generative Models](https://deepgenerativemodels.github.io/)
 - Interesting talks on advanced topics
   - Ben Recht - [Training on test set and other heresies](https://www.youtube.com/watch?v=NTz4rJS9BAI)
   - Aleksander Madry - [A new perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM)
