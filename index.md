@@ -18,141 +18,61 @@ Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the 
 
 ## Schedule
 
-- Session 1 ( 9:00 AM to 10:30 AM)
+- Session 1 (9:00 AM to 10:30 AM)
   - Introduction
   - Current state of the art in deep learning
   - Math review
   - Architecture of multi-layer neural networks
-- Session 2 ( 10:45 AM to 12:00 PM)
+- Session 2 (10:45 AM to 12:00 PM)
   - Loss functions
   - The backpropgation algorithm
   - The gradient descent algorithm
   - Over-fitting and Under-fitting
-- Lunch ( 12:00 PM to 2:00 PM)
-- Session 3 ( 2:00 PM to 3:15 PM)
+- Lunch (12:00 PM to 2:00 PM)
+- Session 3 (2:00 PM to 3:15 PM)
   - Convolutional Neural Networks
   - Recurrent Neural Networks
   - Other Architectures
   - Deep Learning Libraries
   - Hands-on coding Session - Tensorflow
-- Session 4 ( 3:30 PM to 4:45 PM)
+- Session 4 (3:30 PM to 4:45 PM)
   - Hands-on coding Session - Keras
   - Hands-on coding Session - Transfer Learning
   - Failures of deep learning
 
 ## Slides
 
+* Morning Sessions - [slides](#)
+* Afternoon Sessions - [slides](#)
+
+## Jupyter Notebooks 
+
+Below links should open the notebooks in [Google Collaboratory](https://colab.research.google.com/), after they open you may have to click "Open in Playground" to be able to run code.
+
+* [TFWalkthrough.ipynb](https://colab.research.google.com/drive/1PhOPsPPYrqLhvuAEPINWWRgQlXTs3QRu)
+* [KerasWalkthrough.ipynb](https://colab.research.google.com/drive/1Z3ZuHItFqAosF1GSqe1uf2A9inpVj4OS)
+* [TransferLearning.ipynb](https://colab.research.google.com/drive/1IRJJd3FUXzjUrz496I0eAMq42k0_JP9n)
 
 
-<!---
+## Additional Resources
 
+Here are some additional resources for various topics:
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
--->
+- Calculus Fundamentals
+  - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by Grant Sanderson
+- Linear Algebra Fundamentals
+  - [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by Grant Sanderson
+- Books
+  - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen - Free online book
+  - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- Visualizations
+  - [Neural Network Playground](https://playground.tensorflow.org/) - A playground for dense neural networks
+  - [Gan Lab](https://poloclub.github.io/ganlab/) - A playground for GANs
+  - [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/) - Visual tutorial on initialization in deep learning
+  - [Parameter optimization in neural networks](https://www.deeplearning.ai/ai-notes/optimization/) - Visual tutorial on optimization in deep learning
+- Stanford Courses
+  - [CS230 Deep Learning](https://cs230.stanford.edu/)
+  - [CS231N Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- Interesting talks on advanced topics
+  - Ben Recht - [Training on test set and other heresies](https://www.youtube.com/watch?v=NTz4rJS9BAI)
+  - Aleksander Madry - [A new perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM)
