@@ -57,9 +57,9 @@ Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the 
 
 Below links should open the notebooks in [Google Collaboratory](https://colab.research.google.com/), after they open you may have to click "Open in Playground" to be able to run code.
 
-* [TFWalkthrough.ipynb](https://colab.research.google.com/drive/1PhOPsPPYrqLhvuAEPINWWRgQlXTs3QRu)
+* [TFWalkthrough.ipynb](https://colab.research.google.com/drive/1yGCtmXoN-bvFpOvcwxE5TJ2lu4WSyPAB)
 * [KerasWalkthrough.ipynb](https://colab.research.google.com/drive/1uX27nH7K7UUn0RoQ0mREZ6FSiTv7F4TJ)
-* [TransferLearning.ipynb](https://colab.research.google.com/drive/1IRJJd3FUXzjUrz496I0eAMq42k0_JP9n)
+* [TransferLearning.ipynb](hhttps://colab.research.google.com/drive/1QrNPyIalL4_i8aMO6426GV40dk3anPwJ)
 
 
 ## Additional Resources
