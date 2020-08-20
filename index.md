@@ -48,10 +48,8 @@ Sherrie Wang is a PhD student at ICME, advised by Professor David Lobell at the 
 
 ## Slides
 
-Slides are currently being updated:
-
-* Morning Sessions - [slides](#)
-* Afternoon Sessions - [slides](#)
+* Session 1 - [slides](https://github.com/icme-workshops/deep-learning/blob/master/docs/dlworkshop1.pdf)
+* Session 2 - [slides](https://github.com/icme-workshops/deep-learning/blob/master/docs/dlworkshop2.pdf)
 
 ## Jupyter Notebooks 
 
